@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Linen Apron",
+    "description": "Stonewashed linen apron with adjustable neck strap and two deep pockets.",
+    "price": 38,
+    "compareAtPrice": 48,
+    "stock": 40,
+    "category": "Kitchen",
+    "attributes": { "colors": ["Natural", "Ink"] },
+    "featured": false
+  },
+  {
+    "title": "Brass Wall Hooks",
+    "description": "Set of four solid brass hooks with mounting screws.",
+    "price": 29,
+    "stock": 100,
+    "category": "Living",
+    "images": ["https://picsum.photos/seed/brass-hooks/900/900"]
+  }
+]
